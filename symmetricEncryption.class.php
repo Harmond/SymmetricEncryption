@@ -15,7 +15,8 @@
  
 /**
  * A class which makes Symmetric Encryption easy by encapsulating all the choices
- * configuration options into a single class.
+ * and configuration options into a single class.
+ * NOTE: THE CONSTANTS IN THIS CLASS ARE NOT CONFIGURATION SETTINGS; DO NOT CHANGE THEM!
  */
 class SymmetricEncryption {
 	
